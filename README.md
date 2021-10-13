@@ -1,2 +1,2 @@
 # younote_paper
-Youtube için python ile yaptım not defteridir, youtube videosunu izleyebilirsiniz - OlcaySoftware youtube
+Youtube için python ile yaptıgım not defteridir, youtube videosunu izleyebilirsiniz - OlcaySoftware youtube
